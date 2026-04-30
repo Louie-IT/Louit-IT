@@ -31,5 +31,5 @@ I've finally decided to create this profile to share some of my projects, real l
 * Anime
 
 * On my spare time I enjoy being creative - drawing, animations, and motion design.
-    * https://dribbble.com/humansxrobots
+
 --- 
